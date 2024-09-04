@@ -1,0 +1,29 @@
+ 				Sistema de Gestión de Inventarios
+
+Descripción:
+
+El sistema gestiona productos, proveedores y órdenes de compra. Los productos tienen un nombre, descripción y precio. Cada proveedor suministra productos y tiene información de contacto. Cada orden de compra está asociada a un proveedor y contiene varios productos. Los productos en una orden de compra tienen una cantidad y un precio unitario específico para esa orden.
+
+			Sistema de Gestión de Cursos en una Escuela
+
+Descripción:
+
+El sistema gestiona cursos, estudiantes y profesores. Los cursos tienen un nombre, código y descripción. Los estudiantes tienen un nombre, dirección y número de matrícula. Los profesores tienen un nombre y especialización. Cada curso puede ser impartido por uno o varios profesores y puede tener varios estudiantes inscritos.
+
+			Sistema de Gestión de Reservas de Hotel
+
+Descripción:
+
+El sistema gestiona huéspedes, habitaciones y reservas. Los huéspedes tienen información personal como nombre y dirección. Las habitaciones tienen un número, tipo y tarifa por noche. Las reservas están asociadas a un huésped y a una habitación, y cada reserva tiene una fecha de inicio y fin, además de un estado (confirmada, en espera, cancelada).
+
+			Sistema de Gestión de Biblioteca
+
+Descripción:
+
+El sistema gestiona libros, autores y préstamos. Los libros tienen un título, ISBN y año de publicación. Los autores tienen nombre y biografía. Cada libro está asociado a uno o varios autores. Los préstamos están realizados por miembros de la biblioteca y tienen una fecha de préstamo y una fecha de devolución esperada.
+
+			Sistema de Gestión de Eventos
+
+Descripción:
+
+El sistema gestiona eventos, lugares y participantes. Los eventos tienen un nombre, fecha y descripción. Los lugares tienen un nombre, dirección y capacidad. Los participantes pueden ser invitados a uno o varios eventos y pueden confirmar su asistencia.
